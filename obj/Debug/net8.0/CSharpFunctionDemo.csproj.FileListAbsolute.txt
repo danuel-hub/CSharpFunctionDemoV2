@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\CSharpFunctionDemo\bin\Debug\net8.0\CSharpFunctionDemo.exe
+C:\Users\DELL\Documents\CSharpFunctionDemo\bin\Debug\net8.0\CSharpFunctionDemo.deps.json
+C:\Users\DELL\Documents\CSharpFunctionDemo\bin\Debug\net8.0\CSharpFunctionDemo.runtimeconfig.json
+C:\Users\DELL\Documents\CSharpFunctionDemo\bin\Debug\net8.0\CSharpFunctionDemo.dll
+C:\Users\DELL\Documents\CSharpFunctionDemo\bin\Debug\net8.0\CSharpFunctionDemo.pdb
+C:\Users\DELL\Documents\CSharpFunctionDemo\obj\Debug\net8.0\CSharpFunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\CSharpFunctionDemo\obj\Debug\net8.0\CSharpFunctionDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\CSharpFunctionDemo\obj\Debug\net8.0\CSharpFunctionDemo.AssemblyInfo.cs
+C:\Users\DELL\Documents\CSharpFunctionDemo\obj\Debug\net8.0\CSharpFunctionDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\CSharpFunctionDemo\obj\Debug\net8.0\CSharpFunctionDemo.dll
+C:\Users\DELL\Documents\CSharpFunctionDemo\obj\Debug\net8.0\refint\CSharpFunctionDemo.dll
+C:\Users\DELL\Documents\CSharpFunctionDemo\obj\Debug\net8.0\CSharpFunctionDemo.pdb
+C:\Users\DELL\Documents\CSharpFunctionDemo\obj\Debug\net8.0\CSharpFunctionDemo.genruntimeconfig.cache
+C:\Users\DELL\Documents\CSharpFunctionDemo\obj\Debug\net8.0\ref\CSharpFunctionDemo.dll
