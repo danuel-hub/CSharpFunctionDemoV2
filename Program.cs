@@ -8,6 +8,15 @@ namespace FunctionDemo
         static int Add(int a, int b) => a + b;
         static int Subtract(int a, int b) => a - b;
         static int Multiply(int a, int b) => a * b;
+        static int Divide(int a, int b)
+        {
+            if (b == 0)
+            {
+                Console.WriteLine("Cannot divide by zero.");
+                return 0;
+            }
+            return a / b;
+        }
 
         static void Main(string[] args)
         {
@@ -15,6 +24,10 @@ namespace FunctionDemo
             Console.WriteLine("Add: " + Add(num1, num2));
             Console.WriteLine("Subtract: " + Subtract(num1, num2));
             Console.WriteLine("Multiply: " + Multiply(num1, num2));
+            Console.WriteLine("Divide: " + Divide(num1, num2));
         }
     }
 }
+
+
+    
